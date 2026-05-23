@@ -112,12 +112,6 @@ app/src/main/java/com/example/nammashaleinventery/
      ```
    - Find the compiled debug APK at `app/build/outputs/apk/debug/app-debug.apk`.
 
----
-
-## 👨‍💻 Authors & Contributors
-
-- **VEERESHA** - Creator & Core Developer
-
 ## 🤝 Contributors
 
 <table>
