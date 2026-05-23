@@ -118,7 +118,23 @@ app/src/main/java/com/example/nammashaleinventery/
 
 - **VEERESHA** - Creator & Core Developer
 
+## 🤝 Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Sreddy08840">
+        <img src="https://github.com/Sreddy08840.png" width="100px;" alt="Sreddy08840"/><br/>
+        <sub><b>Sreddy08840</b></sub>
+      </a><br/>
+      <sub>🌱 Creator & Lead Developer</sub><br/>
+      <sub>· Voice AI · </sub>
+    </td>
+  </tr>
+</table>
+
 ---
+
 
 ## 📄 License
 This project is for educational and public school infrastructure audit assistance purposes.
